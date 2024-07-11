@@ -1,9 +1,7 @@
 # Clash官方各版本下载及机场订阅节点推荐汇总
 ## Clash客户端下载
 ### Clash for Windows
-Clash for Windows下载：[GitHub Releases](https://github.com/netboy1024/clash_for_windows/releases/tag/v0.20.39)
-
-Clash for Windows中文汉化包下载：[GitHub Releases](https://github.com/netboy1024/clash_for_windows/releases/tag/v0.20.39)
+Clash for Windows客户端及中文汉化包下载：[GitHub Releases](https://github.com/netboy1024/clash_for_windows/releases/tag/v0.20.39)
 
 Clash for Windows大陆高速下载、配置、中文汉化及使用教程：[Clash中文网](https://clashcn.com/clash-for-windows)
 
